@@ -5,6 +5,8 @@ C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\n
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\MultiShop.Catalog.runtimeconfig.json
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\MultiShop.Catalog.dll
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\MultiShop.Catalog.pdb
+C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\DnsClient.dll
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\MongoDB.Bson.dll
@@ -22,6 +24,7 @@ C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\n
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net8.0\MultiShop.Catalog.csproj.CoreCompileInputs.cache
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net8.0\MultiShop.Catalog.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net8.0\MultiShop.Catalog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net8.0\MultiShop.Catalog.sourcelink.json
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\BERKAY\Desktop\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net8.0\staticwebassets\msbuild.MultiShop.Catalog.Microsoft.AspNetCore.StaticWebAssets.props
